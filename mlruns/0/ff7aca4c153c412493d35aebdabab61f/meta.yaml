@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ff7aca4c153c412493d35aebdabab61f/artifacts
+end_time: 1724633132271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff7aca4c153c412493d35aebdabab61f
+run_name: clumsy-zebra-135
+run_uuid: ff7aca4c153c412493d35aebdabab61f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724633116431
+status: 4
+tags: []
+user_id: meganblack

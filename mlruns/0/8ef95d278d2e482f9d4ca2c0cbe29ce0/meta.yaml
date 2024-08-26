@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8ef95d278d2e482f9d4ca2c0cbe29ce0/artifacts
+end_time: 1724628615106
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ef95d278d2e482f9d4ca2c0cbe29ce0
+run_name: serious-smelt-148
+run_uuid: 8ef95d278d2e482f9d4ca2c0cbe29ce0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724628479195
+status: 3
+tags: []
+user_id: meganblack

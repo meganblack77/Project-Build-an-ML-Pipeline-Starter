@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fc66081af5be497fbdc38a25d8255ceb/artifacts
+end_time: 1724637866906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc66081af5be497fbdc38a25d8255ceb
+run_name: agreeable-hare-891
+run_uuid: fc66081af5be497fbdc38a25d8255ceb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724637696240
+status: 3
+tags: []
+user_id: meganblack

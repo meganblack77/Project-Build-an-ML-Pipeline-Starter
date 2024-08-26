@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/99e58763499f4fb8be3d10982e28c7d7/artifacts
+end_time: 1724647828382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99e58763499f4fb8be3d10982e28c7d7
+run_name: beautiful-snake-103
+run_uuid: 99e58763499f4fb8be3d10982e28c7d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724647805539
+status: 3
+tags: []
+user_id: meganblack

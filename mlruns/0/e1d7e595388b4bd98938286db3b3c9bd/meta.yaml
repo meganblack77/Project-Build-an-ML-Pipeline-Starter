@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e1d7e595388b4bd98938286db3b3c9bd/artifacts
+end_time: 1724634017817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1d7e595388b4bd98938286db3b3c9bd
+run_name: zealous-squid-962
+run_uuid: e1d7e595388b4bd98938286db3b3c9bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724634001938
+status: 4
+tags: []
+user_id: meganblack

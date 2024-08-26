@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a049c4b862d24d2d8d3f89f0f4fdcb0c/artifacts
+end_time: 1724640348323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a049c4b862d24d2d8d3f89f0f4fdcb0c
+run_name: auspicious-horse-706
+run_uuid: a049c4b862d24d2d8d3f89f0f4fdcb0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724640346016
+status: 4
+tags: []
+user_id: meganblack

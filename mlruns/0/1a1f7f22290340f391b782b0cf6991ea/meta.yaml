@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1a1f7f22290340f391b782b0cf6991ea/artifacts
+end_time: 1724633691811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a1f7f22290340f391b782b0cf6991ea
+run_name: clumsy-worm-259
+run_uuid: 1a1f7f22290340f391b782b0cf6991ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724633668426
+status: 4
+tags: []
+user_id: meganblack

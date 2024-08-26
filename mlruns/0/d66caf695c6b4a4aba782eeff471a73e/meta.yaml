@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d66caf695c6b4a4aba782eeff471a73e/artifacts
+end_time: 1724628615380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d66caf695c6b4a4aba782eeff471a73e
+run_name: unleashed-lamb-834
+run_uuid: d66caf695c6b4a4aba782eeff471a73e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724628469515
+status: 3
+tags: []
+user_id: meganblack

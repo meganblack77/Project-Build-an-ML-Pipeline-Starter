@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/121de756e54b407aa3816575c5493c4a/artifacts
+end_time: 1724620463404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 121de756e54b407aa3816575c5493c4a
+run_name: mysterious-steed-213
+run_uuid: 121de756e54b407aa3816575c5493c4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724620350300
+status: 3
+tags: []
+user_id: meganblack

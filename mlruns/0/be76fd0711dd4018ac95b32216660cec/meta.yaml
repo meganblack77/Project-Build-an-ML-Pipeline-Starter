@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/be76fd0711dd4018ac95b32216660cec/artifacts
+end_time: 1724623189741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be76fd0711dd4018ac95b32216660cec
+run_name: lyrical-gnat-221
+run_uuid: be76fd0711dd4018ac95b32216660cec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724623092450
+status: 3
+tags: []
+user_id: meganblack

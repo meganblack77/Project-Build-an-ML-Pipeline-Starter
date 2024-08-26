@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/797d079673b7478ea59fe94e66a9ec36/artifacts
+end_time: 1724643936902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 797d079673b7478ea59fe94e66a9ec36
+run_name: auspicious-bird-218
+run_uuid: 797d079673b7478ea59fe94e66a9ec36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724643922992
+status: 3
+tags: []
+user_id: meganblack

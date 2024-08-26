@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/599cc7081cfd4f2183275fd740265649/artifacts
+end_time: 1724646395623
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 599cc7081cfd4f2183275fd740265649
+run_name: judicious-wolf-749
+run_uuid: 599cc7081cfd4f2183275fd740265649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724646380924
+status: 3
+tags: []
+user_id: meganblack

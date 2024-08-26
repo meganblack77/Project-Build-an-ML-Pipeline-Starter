@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/af11740c6e7046488a0084db75f5f941/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af11740c6e7046488a0084db75f5f941
+run_name: rare-cub-128
+run_uuid: af11740c6e7046488a0084db75f5f941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724624371701
+status: 1
+tags: []
+user_id: meganblack

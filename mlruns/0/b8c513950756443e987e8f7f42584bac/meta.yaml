@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b8c513950756443e987e8f7f42584bac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8c513950756443e987e8f7f42584bac
+run_name: upbeat-grouse-272
+run_uuid: b8c513950756443e987e8f7f42584bac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724624682454
+status: 1
+tags: []
+user_id: meganblack

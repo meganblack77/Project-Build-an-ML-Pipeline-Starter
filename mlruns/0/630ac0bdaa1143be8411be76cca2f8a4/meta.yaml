@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/630ac0bdaa1143be8411be76cca2f8a4/artifacts
+end_time: 1724633082336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 630ac0bdaa1143be8411be76cca2f8a4
+run_name: enthused-hawk-771
+run_uuid: 630ac0bdaa1143be8411be76cca2f8a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724632983371
+status: 4
+tags: []
+user_id: meganblack

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f0dacdc87c3e42619bfb4a862ed68294/artifacts
+end_time: 1724606780029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0dacdc87c3e42619bfb4a862ed68294
+run_name: caring-shrew-360
+run_uuid: f0dacdc87c3e42619bfb4a862ed68294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724606771372
+status: 4
+tags: []
+user_id: meganblack

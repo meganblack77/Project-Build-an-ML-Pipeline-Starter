@@ -1,0 +1,15 @@
+2024-08-25 21:43:42,853 Minimum price: 10, Maximum price: 350
+2024-08-25 21:43:42,881 Preparing sklearn pipeline
+2024-08-25 21:43:42,882 Fitting
+2024-08-25 21:46:43,465 Scoring
+2024-08-25 21:46:43,978 Score: 0.5340342040659455
+2024-08-25 21:46:43,979 MAE: 33.54348026315789
+2024-08-25 21:46:43,980 Exporting model
+/home/meganblack/miniconda3/envs/mlflow-211c8fb974d6215abb361efdc7b6c4bd9a3e8dfd/lib/python3.10/site-packages/mlflow/models/signature.py:212: UserWarning: Hint: Inferred schema contains integer column(s). Integer columns in Python cannot represent missing values. If your input data contains missing values at inference time, it will be encoded as floats and will cause a schema enforcement error. The best way to avoid this problem is to infer the model schema based on a realistic data sample (training dataset) that includes missing values. Alternatively, you can declare integer columns as doubles (float64) whenever these columns may have missing values. See `Handling Integers With Missing Values <https://www.mlflow.org/docs/latest/models.html#handling-integers-with-missing-values>`_ for more details.
+  inputs = _infer_schema(model_input) if model_input is not None else None
+Traceback (most recent call last):
+  File "/home/meganblack/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 299, in <module>
+    go(args)
+  File "/home/meganblack/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 102, in go
+    mlflow.sklearn.save_model(
+TypeError: save_model() got an unexpected keyword argument 'artifact_path'

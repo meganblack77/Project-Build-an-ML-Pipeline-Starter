@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/59f50382878046f6972c68666b5fe174/artifacts
+end_time: 1724607120456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59f50382878046f6972c68666b5fe174
+run_name: mercurial-ape-846
+run_uuid: 59f50382878046f6972c68666b5fe174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724607108926
+status: 4
+tags: []
+user_id: meganblack

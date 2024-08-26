@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e097a7fb3a9a4705bf466417f9f38910/artifacts
+end_time: 1724640593034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e097a7fb3a9a4705bf466417f9f38910
+run_name: placid-mule-462
+run_uuid: e097a7fb3a9a4705bf466417f9f38910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724640486018
+status: 3
+tags: []
+user_id: meganblack

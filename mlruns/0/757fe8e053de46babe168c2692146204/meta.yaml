@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/757fe8e053de46babe168c2692146204/artifacts
+end_time: 1724646603712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 757fe8e053de46babe168c2692146204
+run_name: chill-smelt-986
+run_uuid: 757fe8e053de46babe168c2692146204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724646589172
+status: 3
+tags: []
+user_id: meganblack

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/16f9fface4cc4a1ab65e7a729ba085c5/artifacts
+end_time: 1724637154670
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16f9fface4cc4a1ab65e7a729ba085c5
+run_name: beautiful-cow-967
+run_uuid: 16f9fface4cc4a1ab65e7a729ba085c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724636496310
+status: 4
+tags: []
+user_id: meganblack

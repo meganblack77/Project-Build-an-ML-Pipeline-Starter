@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/68db0cda224044a88ecb8786d2732c8e/artifacts
+end_time: 1724634728375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68db0cda224044a88ecb8786d2732c8e
+run_name: defiant-dog-995
+run_uuid: 68db0cda224044a88ecb8786d2732c8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724634652009
+status: 4
+tags: []
+user_id: meganblack

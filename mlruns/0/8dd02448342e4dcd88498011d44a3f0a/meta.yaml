@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8dd02448342e4dcd88498011d44a3f0a/artifacts
+end_time: 1724625519632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dd02448342e4dcd88498011d44a3f0a
+run_name: agreeable-ox-385
+run_uuid: 8dd02448342e4dcd88498011d44a3f0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724625506687
+status: 4
+tags: []
+user_id: meganblack

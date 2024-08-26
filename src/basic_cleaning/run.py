@@ -16,7 +16,7 @@ def go(args):
     
     logger.info('Starting wandb run.')
     run = wandb.init(
-        project = 'nyc_airbnb',
+        project = 'nyc_airbnb1',
         group = 'basic_cleaning',
         job_type="basic_cleaning" 
     )

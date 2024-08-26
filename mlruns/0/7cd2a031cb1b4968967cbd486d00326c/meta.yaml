@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7cd2a031cb1b4968967cbd486d00326c/artifacts
+end_time: 1724634963849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7cd2a031cb1b4968967cbd486d00326c
+run_name: stylish-moth-408
+run_uuid: 7cd2a031cb1b4968967cbd486d00326c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724634870393
+status: 4
+tags: []
+user_id: meganblack

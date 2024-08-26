@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/646eb4b51e3f4bab97343a130cc9cc43/artifacts
+end_time: 1724635280483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 646eb4b51e3f4bab97343a130cc9cc43
+run_name: dashing-swan-697
+run_uuid: 646eb4b51e3f4bab97343a130cc9cc43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724635164335
+status: 4
+tags: []
+user_id: meganblack

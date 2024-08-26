@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f236abcd6172401381ea1223e1d16549/artifacts
+end_time: 1724646494735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f236abcd6172401381ea1223e1d16549
+run_name: stately-koi-94
+run_uuid: f236abcd6172401381ea1223e1d16549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724646471951
+status: 3
+tags: []
+user_id: meganblack

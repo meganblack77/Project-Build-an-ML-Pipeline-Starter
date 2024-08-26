@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0c7a1532954c4b8c8144e67bc158b3e0/artifacts
+end_time: 1724606779509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c7a1532954c4b8c8144e67bc158b3e0
+run_name: serious-lamb-1
+run_uuid: 0c7a1532954c4b8c8144e67bc158b3e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724606776990
+status: 4
+tags: []
+user_id: meganblack

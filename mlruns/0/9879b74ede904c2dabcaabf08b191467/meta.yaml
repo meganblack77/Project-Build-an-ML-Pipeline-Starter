@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9879b74ede904c2dabcaabf08b191467/artifacts
+end_time: 1724637696016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9879b74ede904c2dabcaabf08b191467
+run_name: monumental-fox-738
+run_uuid: 9879b74ede904c2dabcaabf08b191467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724637599023
+status: 3
+tags: []
+user_id: meganblack

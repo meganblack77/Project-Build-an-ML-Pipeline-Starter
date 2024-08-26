@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a2ec66ae03e14bb298953c976d125582/artifacts
+end_time: 1724608798642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2ec66ae03e14bb298953c976d125582
+run_name: serious-sloth-330
+run_uuid: a2ec66ae03e14bb298953c976d125582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724608690767
+status: 4
+tags: []
+user_id: meganblack

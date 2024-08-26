@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e88db23ed6e04e9e8d2c9e96f7429347/artifacts
+end_time: 1724635164043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e88db23ed6e04e9e8d2c9e96f7429347
+run_name: burly-duck-967
+run_uuid: e88db23ed6e04e9e8d2c9e96f7429347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724634964099
+status: 4
+tags: []
+user_id: meganblack

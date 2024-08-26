@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0ac815d3c5ec4952855022b58bcb2ab2/artifacts
+end_time: 1724636926488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ac815d3c5ec4952855022b58bcb2ab2
+run_name: persistent-gnu-955
+run_uuid: 0ac815d3c5ec4952855022b58bcb2ab2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724636810149
+status: 4
+tags: []
+user_id: meganblack

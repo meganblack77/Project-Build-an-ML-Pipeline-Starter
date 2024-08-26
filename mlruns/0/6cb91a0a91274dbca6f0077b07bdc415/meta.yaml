@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6cb91a0a91274dbca6f0077b07bdc415/artifacts
+end_time: 1724643363260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cb91a0a91274dbca6f0077b07bdc415
+run_name: mercurial-loon-203
+run_uuid: 6cb91a0a91274dbca6f0077b07bdc415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724643246911
+status: 3
+tags: []
+user_id: meganblack

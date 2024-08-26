@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/43dadb229fdc4661b7fd3254168c4c3d/artifacts
+end_time: 1724606648882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43dadb229fdc4661b7fd3254168c4c3d
+run_name: grandiose-worm-879
+run_uuid: 43dadb229fdc4661b7fd3254168c4c3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724606646513
+status: 4
+tags: []
+user_id: meganblack

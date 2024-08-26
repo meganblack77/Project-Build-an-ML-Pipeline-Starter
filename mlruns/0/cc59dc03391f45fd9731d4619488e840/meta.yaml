@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cc59dc03391f45fd9731d4619488e840/artifacts
+end_time: 1724640593386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc59dc03391f45fd9731d4619488e840
+run_name: whimsical-auk-898
+run_uuid: cc59dc03391f45fd9731d4619488e840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724640480235
+status: 3
+tags: []
+user_id: meganblack

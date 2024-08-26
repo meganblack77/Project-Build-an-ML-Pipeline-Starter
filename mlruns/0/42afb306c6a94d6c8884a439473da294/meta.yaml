@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/42afb306c6a94d6c8884a439473da294/artifacts
+end_time: 1724606649410
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42afb306c6a94d6c8884a439473da294
+run_name: angry-bee-925
+run_uuid: 42afb306c6a94d6c8884a439473da294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724606640817
+status: 4
+tags: []
+user_id: meganblack

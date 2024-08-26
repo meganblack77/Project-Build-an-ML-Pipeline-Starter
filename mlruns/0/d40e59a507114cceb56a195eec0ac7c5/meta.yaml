@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d40e59a507114cceb56a195eec0ac7c5/artifacts
+end_time: 1724638227215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d40e59a507114cceb56a195eec0ac7c5
+run_name: funny-shrike-394
+run_uuid: d40e59a507114cceb56a195eec0ac7c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724637986656
+status: 3
+tags: []
+user_id: meganblack

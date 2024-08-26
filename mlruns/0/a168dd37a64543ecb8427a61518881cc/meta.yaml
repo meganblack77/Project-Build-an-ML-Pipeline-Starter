@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a168dd37a64543ecb8427a61518881cc/artifacts
+end_time: 1724605981215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a168dd37a64543ecb8427a61518881cc
+run_name: nervous-carp-818
+run_uuid: a168dd37a64543ecb8427a61518881cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724605978711
+status: 4
+tags: []
+user_id: meganblack

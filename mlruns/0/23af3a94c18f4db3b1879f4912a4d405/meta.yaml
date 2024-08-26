@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/23af3a94c18f4db3b1879f4912a4d405/artifacts
+end_time: 1724636610980
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23af3a94c18f4db3b1879f4912a4d405
+run_name: agreeable-frog-685
+run_uuid: 23af3a94c18f4db3b1879f4912a4d405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724636501235
+status: 4
+tags: []
+user_id: meganblack

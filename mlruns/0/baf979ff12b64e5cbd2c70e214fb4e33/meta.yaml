@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/baf979ff12b64e5cbd2c70e214fb4e33/artifacts
+end_time: 1724646494465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: baf979ff12b64e5cbd2c70e214fb4e33
+run_name: abundant-kite-391
+run_uuid: baf979ff12b64e5cbd2c70e214fb4e33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724646480528
+status: 3
+tags: []
+user_id: meganblack

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bf1fafca05b840d1a79319d55f419f54/artifacts
+end_time: 1724634727886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf1fafca05b840d1a79319d55f419f54
+run_name: unleashed-mare-314
+run_uuid: bf1fafca05b840d1a79319d55f419f54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724634711805
+status: 4
+tags: []
+user_id: meganblack

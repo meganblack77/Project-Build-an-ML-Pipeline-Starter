@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/05c70b7df9fc4a6b8cdced99809cd628/artifacts
+end_time: 1724633709849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05c70b7df9fc4a6b8cdced99809cd628
+run_name: dazzling-wren-678
+run_uuid: 05c70b7df9fc4a6b8cdced99809cd628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724633692077
+status: 4
+tags: []
+user_id: meganblack
