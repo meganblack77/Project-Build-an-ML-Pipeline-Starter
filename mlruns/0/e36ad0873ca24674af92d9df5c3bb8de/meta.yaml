@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e36ad0873ca24674af92d9df5c3bb8de/artifacts
+end_time: 1724679624907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e36ad0873ca24674af92d9df5c3bb8de
+run_name: wistful-deer-686
+run_uuid: e36ad0873ca24674af92d9df5c3bb8de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724679512826
+status: 3
+tags: []
+user_id: meganblack

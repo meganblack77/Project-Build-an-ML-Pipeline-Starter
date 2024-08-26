@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/217f73ea7fbd4ccf89233247ab2c5c5a/artifacts
+end_time: 1724677537871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 217f73ea7fbd4ccf89233247ab2c5c5a
+run_name: thoughtful-loon-352
+run_uuid: 217f73ea7fbd4ccf89233247ab2c5c5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724677524394
+status: 3
+tags: []
+user_id: meganblack

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0a6092e4e3e14bd4951073a9af7790b9/artifacts
+end_time: 1724681319999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a6092e4e3e14bd4951073a9af7790b9
+run_name: fearless-shark-150
+run_uuid: 0a6092e4e3e14bd4951073a9af7790b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724681205559
+status: 3
+tags: []
+user_id: meganblack

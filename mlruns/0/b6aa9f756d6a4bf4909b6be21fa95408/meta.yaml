@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b6aa9f756d6a4bf4909b6be21fa95408/artifacts
+end_time: 1724679841998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6aa9f756d6a4bf4909b6be21fa95408
+run_name: fun-robin-87
+run_uuid: b6aa9f756d6a4bf4909b6be21fa95408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724679625129
+status: 3
+tags: []
+user_id: meganblack

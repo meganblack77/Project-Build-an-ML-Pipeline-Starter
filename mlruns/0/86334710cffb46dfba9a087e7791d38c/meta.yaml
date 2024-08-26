@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/86334710cffb46dfba9a087e7791d38c/artifacts
+end_time: 1724652189116
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86334710cffb46dfba9a087e7791d38c
+run_name: suave-donkey-314
+run_uuid: 86334710cffb46dfba9a087e7791d38c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724652112292
+status: 4
+tags: []
+user_id: meganblack

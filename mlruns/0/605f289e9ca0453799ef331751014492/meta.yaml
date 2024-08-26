@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/605f289e9ca0453799ef331751014492/artifacts
+end_time: 1724681319552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 605f289e9ca0453799ef331751014492
+run_name: debonair-lark-201
+run_uuid: 605f289e9ca0453799ef331751014492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724681212878
+status: 3
+tags: []
+user_id: meganblack

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/86f67a32a27348cc8b08111f2e940207/artifacts
+end_time: 1724680292723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86f67a32a27348cc8b08111f2e940207
+run_name: nebulous-hare-600
+run_uuid: 86f67a32a27348cc8b08111f2e940207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724679507905
+status: 3
+tags: []
+user_id: meganblack

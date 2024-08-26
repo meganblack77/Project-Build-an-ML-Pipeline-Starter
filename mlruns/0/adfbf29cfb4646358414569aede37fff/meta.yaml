@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/adfbf29cfb4646358414569aede37fff/artifacts
+end_time: 1724652005843
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adfbf29cfb4646358414569aede37fff
+run_name: bright-smelt-351
+run_uuid: adfbf29cfb4646358414569aede37fff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724651930182
+status: 3
+tags: []
+user_id: meganblack

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/532d86b93fc94bb887a108eab0f7beec/artifacts
+end_time: 1724651606812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 532d86b93fc94bb887a108eab0f7beec
+run_name: unequaled-crab-887
+run_uuid: 532d86b93fc94bb887a108eab0f7beec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724651492753
+status: 3
+tags: []
+user_id: meganblack

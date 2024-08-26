@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3066c364278746d3a44188882c8584c1/artifacts
+end_time: 1724680292361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3066c364278746d3a44188882c8584c1
+run_name: shivering-sponge-831
+run_uuid: 3066c364278746d3a44188882c8584c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724680002225
+status: 3
+tags: []
+user_id: meganblack

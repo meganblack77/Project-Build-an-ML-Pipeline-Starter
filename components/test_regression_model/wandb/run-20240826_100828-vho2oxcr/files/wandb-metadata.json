@@ -1,0 +1,83 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.0",
+    "heartbeatAt": "2024-08-26T14:08:28.858110",
+    "startedAt": "2024-08-26T14:08:28.206056",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--mlflow_model",
+        "random_forest_export:prod",
+        "--test_dataset",
+        "test_data.csv:latest"
+    ],
+    "state": "running",
+    "program": "/home/meganblack/Project-Build-an-ML-Pipeline-Starter/components/test_regression_model/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "components/test_regression_model/run.py",
+    "git": {
+        "remote": "https://github.com/meganblack77/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "ae98f398a2bda86f55e0f6cfffc8358cbfb9d50e"
+    },
+    "email": null,
+    "root": "/home/meganblack/Project-Build-an-ML-Pipeline-Starter",
+    "host": "Meggos",
+    "username": "meganblack",
+    "executable": "/home/meganblack/miniconda3/envs/mlflow-13989936c7a17c81721214f5ae54dc64c8de7bb3/bin/python",
+    "cpu_count": 3,
+    "cpu_count_logical": 6,
+    "cpu_freq": {
+        "current": 3506.962,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3506.962,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3506.962,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3506.962,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3506.962,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3506.962,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3506.962,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 18.32556915283203
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 970",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 970",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 3.818805694580078
+    }
+}

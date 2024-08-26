@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6d9eee8af3414174b0a3172fb1aadcef/artifacts
+end_time: 1724651108932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d9eee8af3414174b0a3172fb1aadcef
+run_name: enthused-fly-396
+run_uuid: 6d9eee8af3414174b0a3172fb1aadcef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724651090491
+status: 4
+tags: []
+user_id: meganblack

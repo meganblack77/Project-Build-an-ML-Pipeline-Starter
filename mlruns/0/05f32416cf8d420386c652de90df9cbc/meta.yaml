@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/05f32416cf8d420386c652de90df9cbc/artifacts
+end_time: 1724652220240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05f32416cf8d420386c652de90df9cbc
+run_name: calm-lamb-644
+run_uuid: 05f32416cf8d420386c652de90df9cbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724652204920
+status: 4
+tags: []
+user_id: meganblack
