@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/221da2c9943042a2a79b6e63c2911674/artifacts
+end_time: 1724649099140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 221da2c9943042a2a79b6e63c2911674
+run_name: useful-steed-213
+run_uuid: 221da2c9943042a2a79b6e63c2911674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724649081953
+status: 4
+tags: []
+user_id: meganblack

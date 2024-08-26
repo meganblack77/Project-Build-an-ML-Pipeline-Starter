@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1ca71ba7b4274a63bae6d06c3e2d4951/artifacts
+end_time: 1724648450862
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ca71ba7b4274a63bae6d06c3e2d4951
+run_name: enchanting-snail-894
+run_uuid: 1ca71ba7b4274a63bae6d06c3e2d4951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724648436559
+status: 3
+tags: []
+user_id: meganblack

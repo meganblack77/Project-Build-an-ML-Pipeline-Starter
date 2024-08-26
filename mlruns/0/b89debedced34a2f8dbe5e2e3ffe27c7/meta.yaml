@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b89debedced34a2f8dbe5e2e3ffe27c7/artifacts
+end_time: 1724648364130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b89debedced34a2f8dbe5e2e3ffe27c7
+run_name: unequaled-frog-203
+run_uuid: b89debedced34a2f8dbe5e2e3ffe27c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724648341272
+status: 3
+tags: []
+user_id: meganblack

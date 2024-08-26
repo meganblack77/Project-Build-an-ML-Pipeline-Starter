@@ -1,0 +1,31 @@
+2024-08-26 01:05:47,102 Fetching raw dataset.
+[34m[1mwandb[39m[22m: [32m[41mERROR[39m[49m Unable to fetch artifact with name meganonomus-western-governors-university/nyc_airbnb1/sample.csv:latest
+Traceback (most recent call last):
+  File "/home/meganblack/miniconda3/envs/mlflow-29df02dfdfbc31d8c196f55adbe2722de90153a9/lib/python3.10/site-packages/wandb/apis/normalize.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "/home/meganblack/miniconda3/envs/mlflow-29df02dfdfbc31d8c196f55adbe2722de90153a9/lib/python3.10/site-packages/wandb/apis/public.py", line 1040, in artifact
+    artifact = wandb.Artifact._from_name(
+  File "/home/meganblack/miniconda3/envs/mlflow-29df02dfdfbc31d8c196f55adbe2722de90153a9/lib/python3.10/site-packages/wandb/sdk/artifacts/artifact.py", line 256, in _from_name
+    raise ValueError(
+ValueError: Unable to fetch artifact with name meganonomus-western-governors-university/nyc_airbnb1/sample.csv:latest
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "/home/meganblack/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py", line 101, in <module>
+    go(args)
+  File "/home/meganblack/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py", line 27, in go
+    local_path = wandb.use_artifact('sample.csv:latest').file()
+  File "/home/meganblack/miniconda3/envs/mlflow-29df02dfdfbc31d8c196f55adbe2722de90153a9/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 371, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/home/meganblack/miniconda3/envs/mlflow-29df02dfdfbc31d8c196f55adbe2722de90153a9/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 361, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/meganblack/miniconda3/envs/mlflow-29df02dfdfbc31d8c196f55adbe2722de90153a9/lib/python3.10/site-packages/wandb/sdk/wandb_run.py", line 2769, in use_artifact
+    artifact = public_api.artifact(type=type, name=name)
+  File "/home/meganblack/miniconda3/envs/mlflow-29df02dfdfbc31d8c196f55adbe2722de90153a9/lib/python3.10/site-packages/wandb/apis/normalize.py", line 87, in wrapper
+    raise CommError(message, err).with_traceback(sys.exc_info()[2])
+  File "/home/meganblack/miniconda3/envs/mlflow-29df02dfdfbc31d8c196f55adbe2722de90153a9/lib/python3.10/site-packages/wandb/apis/normalize.py", line 41, in wrapper
+    return func(*args, **kwargs)
+  File "/home/meganblack/miniconda3/envs/mlflow-29df02dfdfbc31d8c196f55adbe2722de90153a9/lib/python3.10/site-packages/wandb/apis/public.py", line 1040, in artifact
+    artifact = wandb.Artifact._from_name(
+  File "/home/meganblack/miniconda3/envs/mlflow-29df02dfdfbc31d8c196f55adbe2722de90153a9/lib/python3.10/site-packages/wandb/sdk/artifacts/artifact.py", line 256, in _from_name
+    raise ValueError(
+wandb.errors.CommError: Unable to fetch artifact with name meganonomus-western-governors-university/nyc_airbnb1/sample.csv:latest

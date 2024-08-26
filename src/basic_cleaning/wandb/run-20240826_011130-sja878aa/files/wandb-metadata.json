@@ -1,0 +1,91 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.0",
+    "heartbeatAt": "2024-08-26T05:11:31.674200",
+    "startedAt": "2024-08-26T05:11:30.933949",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "sample.csv:latest",
+        "--output_artifact",
+        "clean_sample.csv",
+        "--output_type",
+        "clean_sample",
+        "--output_description",
+        "Data with outliers and null values removed",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "/home/meganblack/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "src/basic_cleaning/run.py",
+    "git": {
+        "remote": "https://github.com/meganblack77/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "659554795926b4c48dad40b07cb39d95a8b5efd8"
+    },
+    "email": null,
+    "root": "/home/meganblack/Project-Build-an-ML-Pipeline-Starter",
+    "host": "Meggos",
+    "username": "meganblack",
+    "executable": "/home/meganblack/miniconda3/envs/mlflow-29df02dfdfbc31d8c196f55adbe2722de90153a9/bin/python",
+    "cpu_count": 3,
+    "cpu_count_logical": 6,
+    "cpu_freq": {
+        "current": 3506.962,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3506.962,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3506.962,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3506.962,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3506.962,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3506.962,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3506.962,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 18.8255615234375
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 970",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 970",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 3.818805694580078
+    }
+}

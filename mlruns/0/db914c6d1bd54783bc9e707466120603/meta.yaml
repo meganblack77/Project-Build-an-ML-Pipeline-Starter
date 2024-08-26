@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/db914c6d1bd54783bc9e707466120603/artifacts
+end_time: 1724648515036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db914c6d1bd54783bc9e707466120603
+run_name: rumbling-skink-531
+run_uuid: db914c6d1bd54783bc9e707466120603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724648473722
+status: 4
+tags: []
+user_id: meganblack

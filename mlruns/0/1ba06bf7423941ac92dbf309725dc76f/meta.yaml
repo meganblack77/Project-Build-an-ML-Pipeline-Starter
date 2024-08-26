@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1ba06bf7423941ac92dbf309725dc76f/artifacts
+end_time: 1724649633543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ba06bf7423941ac92dbf309725dc76f
+run_name: dapper-ram-7
+run_uuid: 1ba06bf7423941ac92dbf309725dc76f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724649616387
+status: 4
+tags: []
+user_id: meganblack

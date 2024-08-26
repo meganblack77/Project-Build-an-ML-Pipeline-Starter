@@ -1,0 +1,15 @@
+artifact_uri: file:///home/meganblack/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e1333a1c630c4dc9b7c1a67fcb595668/artifacts
+end_time: 1724648497445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1333a1c630c4dc9b7c1a67fcb595668
+run_name: big-crab-624
+run_uuid: e1333a1c630c4dc9b7c1a67fcb595668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724648483704
+status: 3
+tags: []
+user_id: meganblack
